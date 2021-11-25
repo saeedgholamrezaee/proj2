@@ -1,0 +1,22 @@
+{
+  "name": "firstapp",
+  "version": "1.0.0",
+  "description": "first node app on the git hub work",
+  "main": "index.js",
+  "scripts": {
+    "start": "node.cmd cosolig.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/gholamrezaeesaeed/firstapp.git"
+  },
+  "keywords": [
+    "firstappkw"
+  ],
+  "author": "saman mehrad",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/gholamrezaeesaeed/firstapp/issues"
+  },
+  "homepage": "https://github.com/gholamrezaeesaeed/firstapp#readme"
+}
